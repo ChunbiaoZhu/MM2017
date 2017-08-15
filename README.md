@@ -3,10 +3,10 @@
 
 
 
-|  ![MM 2017 logo][logo-mm] | Paper accepted at [ 25th ACM Multimedia Workshop (ACM MM 2017)](http://www.acmmm.org/2017/)   |
+|  ![MM 2017 logo][logo-mm] | Paper accepted at [ 25th ACM Multimedia (ACM MM 2017 Workshop)](http://www.acmmm.org/2017/)   |
 |:-:|---|
 
-[logo-mm]: https://github.com/ChunbiaoZhu/MM2017/blob/master/images/logo.jpg "MM 2017 logo"
+[logo-mm]: https://github.com/ChunbiaoZhu/MM2017/blob/master/images/logo-200.png "MM 2017 logo"
 
 
 
