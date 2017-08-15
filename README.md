@@ -1,9 +1,9 @@
-## A Multilayer Backpropagation Saliency Detection Algorithm Based on Depth Mining
+## An Innovative Saliency Detection Framework with An Example of Image Montage
 
 
 
 
-|  ![MM 2017 logo][logo-caip] | Paper accepted at [ 25th ACM Multimedia Workshop (ACM MM 2017)](http://www.acmmm.org/2017/)   |
+|  ![MM 2017 logo][logo-mm] | Paper accepted at [ 25th ACM Multimedia Workshop (ACM MM 2017)](http://www.acmmm.org/2017/)   |
 |:-:|---|
 
 [logo-mm]: https://github.com/ChunbiaoZhu/MM2017/blob/master/images/logo.jpg "MM 2017 logo"
