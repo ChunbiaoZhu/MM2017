@@ -24,9 +24,9 @@ Code & Datasets will be released soon.
 If you have any question,please email us!
 
 
-## Posterior work
+## Other works
 
-If you were interested in this work, you may want to also check our another work, [ICCV2017](https://chunbiaozhu.github.io/ACVR2017/), which offers a novel idea.
+If you were interested in this work, you may want to also check our other works, [ICCV2017](https://chunbiaozhu.github.io/ACVR2017/), [CAIP2017](https://chunbiaozhu.github.io/CAIP2017/).
 
 ## Acknowledgements
 
