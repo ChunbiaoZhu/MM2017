@@ -32,7 +32,7 @@ If you were interested in this work, you may want to also check our other works,
 
 This work was supported by the grant of National Natural Science Foundation of
 China (No.U1611461), the grant of Science and Technology Planning Project of Guangdong
-Province, China (No.2014B090910001), the grant of Shenzhen Peacock Plan (No.20130408-183003656).
+Province, China (No.2014B090910001), the grant of National Natural Science Foundation of China (61602014), and the grant of Shenzhen Peacock Plan (No.20130408-183003656).
 
 
 ## Contact
